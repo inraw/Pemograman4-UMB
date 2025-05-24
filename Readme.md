@@ -19,13 +19,9 @@ Alur Aplikasi:
 
 ![login](https://github.com/inraw/Pemograman4-UMB/blob/master/image/login.jpeg) 
 
-## Form Login
-
-![login_error](https://github.com/inraw/Pemograman4-UMB/blob/master/image/login_error.jpeg) 
-
 ## Form Login Error
 
-![login](https://github.com/inraw/Pemograman4-UMB/blob/master/image/login.jpeg) 
+![login_error](https://github.com/inraw/Pemograman4-UMB/blob/master/image/login.jpeg) 
 
 ## Form Resgister
 
@@ -35,4 +31,6 @@ Alur Aplikasi:
 
 ![register_error](https://github.com/inraw/Pemograman4-UMB/blob/master/image/buat_akun_error.jpeg) 
 
+## Form Resgister Error
 
+![utama](https://github.com/inraw/Pemograman4-UMB/blob/master/image/WhatsApp%20Image%202025-05-24%20at%2019.24.08%20(4).jpeg) 
